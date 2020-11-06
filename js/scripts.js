@@ -150,7 +150,7 @@ $("#interior_arrow").click(function () {
 
 $("#Exterior_arrow").click(function () {
     $(this).toggleClass("arrow_up");
-    $('.Fifth_section').toggleClass("Fifth_section");
+  
     $('.Fifth_section_box').addClass("Fifth_section_box_height");
     $(".Exterior_text").toggleClass("text_show");
 

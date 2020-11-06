@@ -1,0 +1,1032 @@
+/* For 1400px Resolution */
+
+
+
+@media only screen and (min-width: 1300px) {
+
+    #last {
+
+        display: none
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+
+   #video_placeholder {
+
+      margin-top: -13px
+}
+}
+
+
+
+
+@media only screen and (max-width: 1400px) {
+
+    .p-2 img {
+
+        width: 220px;
+        height: 500px;
+
+    }
+}
+
+
+
+
+
+/* For 1220px Resolution */
+
+
+
+
+@media only screen and (max-width: 1300px) {
+    .hambuger_section {
+        visibility: visible !important;
+
+    }
+
+    .middle_nav {
+        display: none
+    }
+
+    .nav-link_toggle,
+    .hambuger_section {
+        font-size: 14px;
+
+    }
+
+    .nav-list-item {
+
+        padding: 0.3rem 0;
+
+    }
+
+    .header {
+        height: 50px
+    }
+
+    .hambuger_section {
+        position: relative;
+
+        right: 65px;
+    }
+
+    .nav-link_toggle {
+        top: -50px
+    }
+
+    .line_toggle {
+
+        margin: 30px 0;
+        position: relative;
+        top: -50px;
+        right: 50px
+    }
+
+
+    #Volkswagen_logo {
+        position: absolute;
+        left: 76%;
+        margin-top: -300px;
+        height: 450px
+    }
+
+
+}
+
+
+
+
+/* For 1400px Resolution */
+
+
+
+
+@media only screen and (max-width: 1400px) {
+
+    .p-2 img {
+
+        width: 180px;
+        height: 400px;
+
+    }
+
+    .second_section h1 {
+
+        width: 30%;
+        margin-left: 50px;
+        margin-top: 150px;
+    }
+}
+
+
+/* 10'laptop**/
+/* For 1024px with and height 600px Resolution */
+@media (min-height: 600px) and (min-width: 1024px) {
+    .hero {
+
+        height: 160vh;
+        margin-top: -60px;
+
+
+    }
+
+    .golf_charging_respon {
+        width: 600px;
+        margin: auto
+    }
+
+    #car_speeding_respon {
+        display: none !important
+    }
+
+
+}
+
+
+
+/* For 1024px with and height 600px Resolution */
+@media (min-height: 800px) and (min-width: 1200px) {
+    .hero {
+
+        height: 160vh;
+        margin-top: -60px;
+
+
+    }
+
+    #hero_box_home {
+        height: 422px !important;
+        width: 407px;
+        margin-top: 160px
+    }
+
+    #video_placeholder {
+
+        top: -10px;
+
+    }
+
+    #play_button {
+
+        top: -140px;
+
+
+    }
+
+    .hero {
+
+        height: 105vh;
+
+
+
+    }
+
+    .hero_box {
+        height: 400px;
+        margin: 200px 50px;
+
+    }
+
+}
+
+
+
+
+@media only screen and (min-width: 1300px) {
+
+    .hero {
+
+        height: 105vh;
+
+
+
+    }
+
+
+}
+
+
+
+/***ipad landscape***/
+
+
+@media all and (device-width: 1024px) and (device-height: 768px) and (orientation:landscape) {
+    #hero_box_home {
+        height: 400px;
+        width: 507px;
+
+
+
+    }
+
+    #video_placeholder {
+
+        top: -20px;
+        width: 506px;
+        height: 250px
+    }
+
+    #play_button {
+
+        top: -140px;
+        ;
+        left: 200px
+    }
+
+}
+
+
+
+
+
+@media only screen and (min-width: 568px) and (max-width: 830px) and (orientation: landscape) {
+    #hero_box_home {
+        height: 235px !important;
+        width: 507px;
+        margin: 0 auto;
+        margin-top: 100px;
+
+        padding: 10px
+    }
+
+    h1 {
+        font-size: 16px !important
+    }
+
+    h3 {
+        font-size: 11px !important
+    }
+
+    p {
+        font-size: 10px !important
+    }
+
+    a {
+        font-size: 14px
+    }
+
+    form {
+        font-size: 14px
+    }
+
+    button {
+        font-size: 12px !important
+    }
+
+    .second_section {
+        height: 150vh !important
+    }
+
+    .hero_box {
+        height: 300px !important;
+        margin: 100px 50px !important;
+
+    }
+
+    .third_section,
+    .Fifth_section {
+        height: 160vh
+    }
+
+    .eighth_bottom {
+        width: 80%
+    }
+
+    #footer_golf {
+        margin-left: 0 !important
+    }
+
+}
+
+
+
+@media only screen and (max-width: 1050px) {
+
+    #golf_side {
+        height: 400px;
+        width: 459px;
+        margin-top: 100px
+    }
+
+    .car_selection {
+        position: relative;
+        margin: 90px auto;
+        width: 100%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+
+    }
+
+    .color_section {
+        position: absolute;
+        left: 50%
+    }
+
+    .second_section_flex {
+        display: grid;
+        grid-template-columns: 100%;
+        ;
+        width: 100%;
+        grid-gap: 600px;
+        position: relative;
+
+
+    }
+
+    .p-2 img {
+        -o-object-fit: cover;
+        object-fit: cover;
+        -o-object-position: 0;
+        object-position: 0;
+        width: 99.8%;
+        position: relative;
+        top: -1000px;
+        margin-left: 0
+    }
+
+    .second_section {
+        margin-top: 250px;
+        height: 100vh;
+
+    }
+
+    .second_section h1 {
+        display: block;
+        float: none;
+        width: 100%;
+        margin: 0 auto;
+        position: relative;
+        text-align: center;
+        top: -100px
+    }
+
+    .lower_footer {
+        margin: 20px 50px;
+
+    }
+
+    .third_section,
+    .Fifth_section {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+
+
+    }
+
+    .third_section_box {
+        height: 434px !important;
+
+        margin: auto
+    }
+
+    #car_speeding_respon {
+        display: block;
+        width: 100%;
+        padding-bottom: 120px
+    }
+
+    #car_speeding {
+        display: none
+    }
+
+    .col_4 {
+        margin-top: -100px
+    }
+
+    .Fifth_section_box {
+        height: 450px;
+        width: 350px !important;
+
+        -webkit-transition: ease-out 0.8s;
+        transition: ease-out 0.8s;
+
+        margin: auto
+    }
+
+    .Fifth_section_box h3:first-child {
+        margin-top: 60px !important
+    }
+
+    .sixth_section {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center
+    }
+
+    #golf_side {
+        display: none
+    }
+
+    #Volkswagen_logo {
+        position: absolute;
+        right: 0;
+        margin-top: 300px;
+        height: 450px
+    }
+
+    .seventh_section {
+        margin-top: 0;
+        text-align: center
+    }
+
+
+
+
+
+    .seventh_section h1 {
+        margin: auto
+    }
+
+    .golf_charging_respon {
+        display: block
+    }
+
+    .golf_charging {
+        display: none
+    }
+
+    .golf_parked {
+        display: none
+    }
+
+
+    .golf_dashbord {
+        display: none
+    }
+
+    .h1_second_section {
+
+        display: none
+    }
+
+    .h1_second_section_respon {
+        display: block!important
+    }
+}
+
+
+
+
+
+/* For 900px Resolution */
+
+
+
+@media only screen and (max-width: 900px) {
+
+
+    h1 {
+        font-size: 25px
+    }
+
+    h3 {
+        font-size: 14px
+    }
+
+    p {
+        font-size: 13px
+    }
+
+    a {
+        font-size: 14px
+    }
+
+    form {
+        font-size: 14px
+    }
+
+    button {
+        font-size: 12px !important
+    }
+
+    .row {
+        display: grid;
+
+
+    }
+
+    #play_button {
+        display: none;
+
+    }
+
+    #video_placeholder {
+        display: none
+    }
+
+    .hero {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center
+    }
+
+    .hero_box {
+        height: 522px;
+        width: 400px;
+        margin: auto;
+        padding: 26px 34px;
+
+    }
+
+
+    .footer_row {
+        width: 150%;
+        margin-left: auto;
+    }
+
+    .lower_footer {
+        margin: 20px 50px;
+
+    }
+
+    .eighth_section img {
+        height: 120px;
+        margin-top: 100px
+    }
+
+    .form_section {
+
+        height: 500px;
+        width: 70%;
+        margin-right: 50px
+    }
+
+    .form-group {
+        width: 90%
+    }
+
+    .car_selection {
+        position: relative;
+        top: 490px
+    }
+}
+
+
+
+
+
+
+/* For 850px Resolution */
+
+
+@media only screen and (max-width: 850px) {
+
+
+    .golf_slider {
+        margin: 0 auto;
+        width: 100%;
+        position: none;
+        right: 0px
+    }
+
+    #golf_slider {
+        width: 600px
+    }
+
+    .color_circle {
+
+        height: 30px;
+        width: 30px;
+        border-radius: 100%;
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+        margin: 0 5px;
+    }
+
+    h1 {
+        width: 100%
+    }
+
+    .second_section {
+        margin-top: 200px;
+        height: 80vh;
+
+    }
+}
+
+
+
+
+
+
+/* For 500px Resolution */
+@media only screen and (max-width: 550px) {
+
+
+    .golf_slider {
+        margin: 0 auto;
+        width: 105%;
+        position: none;
+        right: 0px
+    }
+
+    #golf_slider {
+        width: 600px
+    }
+
+    .color_section {
+        position: absolute;
+        left: 5%;
+        width: 100%
+    }
+
+    .color_circle {
+
+        height: 30px;
+        width: 30px;
+        border-radius: 100%;
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+        margin: 0 5px;
+    }
+
+    h1 {
+        width: 100%
+    }
+
+    .eighth_section img {
+        height: 80px;
+        margin-top: 100px;
+        margin-left: 0 !important
+    }
+
+    .form_section {
+
+        height: 500px;
+        width: 50%;
+        margin-left: -100px
+    }
+
+    .lower_footer {
+        margin: 20px 15px;
+
+
+
+    }
+
+
+    .custom-radio-button input[type="radio"] + label span {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+
+    }
+
+    .custom-radio-button input[type="radio"]:checked + label span {
+        width: 30px;
+        height: 30px;
+
+    }
+
+    .btn-secondary {
+        margin: 0 10px;
+        color: #000;
+        background-color: white;
+        border-color: none !important;
+        ;
+        font-size: 11px
+    }
+
+    #hero_box_home {
+        height: 422px;
+        width: 307px;
+
+
+
+    }
+
+    .second_section {
+        margin-top: 150px;
+        height: 60vh;
+
+    }
+
+    .fixed_logo {
+        height: 25px;
+
+
+    }
+
+    .logo {
+
+        height: 25px;
+        ;
+        margin-left: 15px
+    }
+
+    .toggle-menu {
+        margin-right: 15px;
+
+    }
+
+    .fixed_toggle {
+
+
+        top: 5px;
+
+    }
+
+    .Fifth_section {
+        background: none !important;
+        height: 60vh;
+        margin-top: -100px
+    }
+
+    .Fifth_section_box {
+        width: 100% !important;
+        margin-top: 50px;
+
+    }
+
+
+    .third_section {
+
+
+
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0%)), color-stop(0%, rgba(255, 255, 255, 255)), color-stop(0%, rgba(0, 0, 0, 0.15))), url('Pictures/golf_dashborad.jpg');
+
+
+
+        background: linear-gradient(to bottom, rgba(255, 255, 255, 0%) 0%, rgba(255, 255, 255, 255) 0%, rgba(0, 0, 0, 0.15) 0%), url('Pictures/golf_dashborad.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+
+
+    }
+
+    .seventh_part {
+        position: absolute;
+        left: -40px;
+        margin-top: 450px;
+        ;
+        height: 200px
+    }
+
+    #Volkswagen_logo {
+        position: absolute;
+        left: 220px;
+        height: 200px
+    }
+
+    button:hover {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        -webkit-transition: ease-in 0.2s;
+        transition: ease-in 0.2s;
+    }
+
+}
+
+
+/* For 450px Resolution */
+@media only screen and (max-width: 450px) {
+
+
+    h1 {
+        font-size: 20px !important;
+        width: 90%;
+
+    }
+
+
+
+    h3 {
+        font-size: 13px !important
+    }
+
+    p {
+        font-size: 12px !important
+    }
+
+    a {
+        font-size: 13px
+    }
+
+    form {
+        font-size: 12px
+    }
+
+    button {
+        font-size: 12px !important
+    }
+
+    .fourth_section {
+        margin-right: 30px
+    }
+
+    .seventh_section {
+        margin: -100px 50px;
+    }
+
+
+    .golf_slider {
+
+        margin-right: 20px
+    }
+
+    #golf_slider {
+        width: 500px
+    }
+
+    .color_section {
+        margin-left: 70px;
+        margin-top: -100px
+    }
+
+    .car_selection {
+        margin-top: -60px
+    }
+
+    .color_circle {
+
+        height: 30px;
+        width: 30px;
+        border-radius: 100%;
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+        margin: 0 5px;
+    }
+
+
+    .eighth_section img {
+        height: 60px;
+        margin-top: 100px;
+        margin-left: 0 !important
+    }
+
+    .form_section {
+
+        height: 500px;
+        width: 60%;
+        margin-left: -100px
+    }
+
+
+    .eighth_section {
+        margin-left: 30px !important;
+        margin-top: 800px !important;
+
+        margin-right: 50px !important
+    }
+
+
+    .footer {
+        margin-left: 30px;
+
+    }
+
+    .lower_footer p {
+        font-size: 9px !important;
+
+
+    }
+
+    .nav-list-item {
+
+        padding: 0.2rem 0;
+        margin-left: 130px;
+
+    }
+
+    .nav-item {
+        margin-left: 150px;
+        margin-top: -10px
+    }
+
+    .nav-list {
+        margin-top: 50px;
+
+    }
+
+    .line_toggle {
+
+        display: none
+    }
+
+    .hambuger_section {
+        margin-top: -50px
+    }
+
+
+
+    #hero_box_home {
+        height: 402px;
+        width: 290px;
+        margin-top: 170px
+    }
+}
+
+
+
+
+
+
+/* For 360px Resolution */
+@media only screen and (max-width: 360px) {
+
+    h1 {
+        font-size: 18px !important;
+        width: 90%;
+
+    }
+
+    #hero_box_home {
+        height: 422px;
+        width: 290px;
+        margin-top: 120px
+    }
+
+
+
+    .golf_slider {
+        margin: 0 auto;
+        width: 120%;
+        position: none;
+        right: 0px
+    }
+
+    #golf_slider {
+        width: 500px
+    }
+
+    .color_section {
+        margin-left: 100px;
+        margin-top: -100px
+    }
+
+    .car_selection {
+        margin-top: -60px
+    }
+
+    .color_circle {
+
+        height: 30px;
+        width: 30px;
+        border-radius: 100%;
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+        margin: 0 5px;
+    }
+
+
+    .eighth_section img {
+        height: 60px;
+        margin-top: 100px;
+        margin-left: 0 !important
+    }
+
+    .form_section {
+
+        height: 500px;
+        width: 60%;
+        margin-left: -100px
+    }
+
+
+    .eighth_section {
+        margin-left: 30px !important;
+        margin-top: 800px !important;
+
+        margin-right: 50px !important
+    }
+
+
+    .footer {
+        margin-left: 30px;
+
+    }
+
+    .lower_footer p {
+        font-size: 9px !important;
+
+
+    }
+
+
+}

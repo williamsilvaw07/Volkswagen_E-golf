@@ -389,7 +389,7 @@ button:hover {
 
 iframe {
     position: relative;
-    top: 103px;
+    top: -13px;
     right: 34px;
     visibility: hidden;
 }
@@ -579,7 +579,7 @@ iframe {
 }
 
 .third_section_box {
-    height: 534px;
+    height: 504px !important;
     margin-top: 250px
 }
 
